@@ -1,3 +1,4 @@
+  // Step 1: Extract text from the body element
   let bodyText = document.querySelector('#body').innerText;
 
   // Step 2: Normalize the text
@@ -17,4 +18,5 @@
   // Step 6: Log the result
   console.log(`Found Keywords: ${foundKeywords}`);
   alert(`Percentage of Keywords Found: ${percentage}`)
-// Step 1: Extract text from the body element
+
+//test commit
