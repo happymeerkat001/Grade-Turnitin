@@ -12,6 +12,8 @@
     return normalizedText.includes(keyword);
   });
   
+  //make some change here
+  
   // Step 5: Calculate the percentage of keywords found
   const percentage = (foundKeywords.length / keywords.length) * 100 + '%'
 
